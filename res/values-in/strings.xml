@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">H.R.C</string>
+	
+	<string name="create_new_key_msg">Harap buat kata sandi baru anda.</string>
+	<string name="confirm_new_key_msg">Masukkan ulang kata sandi anda.</string>
+	<string name="mismatch_new_key_msg">Kata sandi tidak cocok, silahkan coba lagi.</string>
+
+</resources>

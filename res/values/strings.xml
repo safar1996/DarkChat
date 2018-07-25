@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">H.R.C</string>
+	
+	<string name="create_new_key_msg">Please create your new key.</string>
+	<string name="mismatch_new_key_msg">New key mismatch, try again.</string>
+	<string name="confirm_new_key_msg">Confirm your key</string>
+	
+</resources>
